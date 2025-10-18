@@ -44,8 +44,8 @@ while True:
 		break
 ```
 <H3> Output:</H3>
- 
-![image](https://github.com/user-attachments/assets/8c16dec8-a049-484f-9bf2-47c71a472a66)
+<img width="259" height="127" alt="image" src="https://github.com/user-attachments/assets/17547a9f-c7b6-4d40-90c2-16a3cf9ba9b7" />
+
 
 <H3> Result:</H3>
 Thus, The implementation of speech recognition is executed successfully.
